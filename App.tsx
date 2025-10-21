@@ -69,7 +69,7 @@ const App: React.FC = () => {
     <main className="bg-gradient-to-br from-teal-50 to-green-100 min-h-screen flex items-start justify-center p-4 sm:p-6 lg:p-12 font-sans">
       <div className="w-full max-w-7xl mx-auto">
         <h1 className="text-3xl sm:text-4xl font-bold text-teal-800 text-center mb-8">
-          Análisis de Parámetros de Evaluación (Nueva Versión)
+          Análisis de Parámetros de Evaluación
         </h1>
         <EvaluationTable data={evaluationData} />
       </div>
